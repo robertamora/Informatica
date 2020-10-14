@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T15:33:40.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="paYsGItyybkFx0sHgoFv" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T15:36:45.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ywJoddokug55UQ6UqFIJ" version="13.8.0" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="744" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
               <mxPoint x="120" y="340" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1lt5k6IH-QPzhiE2qlpN-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lt5k6IH-QPzhiE2qlpN-63" target="1lt5k6IH-QPzhiE2qlpN-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1lt5k6IH-QPzhiE2qlpN-63" value="&amp;nbsp;&lt;br&gt;PK&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;ISBN&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;titolo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;dataPubblicaz&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Argomento&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="50" y="140" width="140" height="140" as="geometry" />
