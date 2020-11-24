@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T11:29:36.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="67jPKpw2a0rakNMnOfAv" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T11:32:55.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="K_AGa7uND4UT4PCuESyL" version="13.10.0" type="github">
   <diagram id="2InmV_YNE6gLGNRfa_T2" name="Page-1">
-    <mxGraphModel dx="3080" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="744" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,7 +104,7 @@
           <mxGeometry x="105" y="40" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Nq4t092NqprpkGsbXyXn-47" value="SCHEMA TABELLE&lt;br style=&quot;font-size: 15px;&quot;&gt;SUPERMERCATI(&lt;u style=&quot;font-size: 15px;&quot;&gt;id_supermercato&lt;/u&gt;,località,nome_responsabile,indirizzo,n_dipendenti,&lt;b style=&quot;font-size: 15px;&quot;&gt;id_magazzino)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/b&gt;MAGAZZINI(&lt;u style=&quot;font-size: 15px;&quot;&gt;id_magazzino,&lt;/u&gt;luogo)&lt;br style=&quot;font-size: 15px;&quot;&gt;APPROVVIGIONAMENTI(&lt;u style=&quot;font-size: 15px;&quot;&gt;id_approvvigionamenti,&lt;/u&gt;quantità,data_arrivo,&lt;b style=&quot;font-size: 15px;&quot;&gt;id_magazzino)&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;PRODOTTI(&lt;u style=&quot;font-size: 15px;&quot;&gt;id_prodotto,&lt;/u&gt;descrizione,casa_produtttrice,prezzo&lt;b style=&quot;font-size: 15px;&quot;&gt;,id_fornitore)&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;FORNITORE(&lt;u style=&quot;font-size: 15px;&quot;&gt;id_fornitore,&lt;/u&gt;nome,sede&lt;b style=&quot;font-size: 15px;&quot;&gt;,id_magazzino)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/b&gt;SUPERMERCATI/APPROVVIGIONAMENTO(&lt;u style=&quot;font-size: 15px;&quot;&gt;id_supermercati_approvvigionamenti,&lt;/u&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;id_supermercato,id_approvvigionamento)&lt;/b&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;APPROVVIGIONAMENTI/PRODOTTI(&lt;u style=&quot;font-size: 15px;&quot;&gt;id_approvvigionamenti_prodotti,&lt;/u&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;id_approvvigionamento,id_prodotto)&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1010" width="870" height="140" as="geometry" />
+          <mxGeometry x="90" y="1020" width="870" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Nq4t092NqprpkGsbXyXn-48" value="schema logico" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="5" y="500" width="110" height="20" as="geometry" />
