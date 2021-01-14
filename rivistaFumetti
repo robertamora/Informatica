@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T10:26:52.967Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="XfQm5Pc6CJlqkoHMgr8Q" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T10:36:57.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="5jY32WtBopEE1GsQ_8FD" version="14.1.9" type="github">
   <diagram id="ZwMO6Sv9N_VgJyCdiIZr" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="310" y="80" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SKiWSU0gFCXVpOmUBtVS-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;MODELLO E/R&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="10" width="130" height="20" as="geometry" />
+          <mxGeometry x="50" y="20" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SKiWSU0gFCXVpOmUBtVS-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;startArrow=ERmany;startFill=0;" edge="1" parent="1" source="SKiWSU0gFCXVpOmUBtVS-6" target="SKiWSU0gFCXVpOmUBtVS-1">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
         <mxCell id="SKiWSU0gFCXVpOmUBtVS-7" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Personaggio_Secondario&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_personaggioS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;nome&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;cognome&lt;br&gt;data_nascita&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="580" y="80" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="SKiWSU0gFCXVpOmUBtVS-10" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Parente&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_parentela&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;bool parente&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;grado_parentela&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="SKiWSU0gFCXVpOmUBtVS-10" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Parentela&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_parentela&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;bool parente&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;grado_parentela&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="340" y="285" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SKiWSU0gFCXVpOmUBtVS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="SKiWSU0gFCXVpOmUBtVS-13">
@@ -82,7 +82,7 @@
           <mxGeometry x="620" y="210" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SKiWSU0gFCXVpOmUBtVS-27" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;MODELLO LOGICO&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="15" y="450" width="150" height="20" as="geometry" />
+          <mxGeometry x="40" y="450" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SKiWSU0gFCXVpOmUBtVS-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;" edge="1" source="SKiWSU0gFCXVpOmUBtVS-29" target="SKiWSU0gFCXVpOmUBtVS-30" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -130,7 +130,7 @@
         <mxCell id="SKiWSU0gFCXVpOmUBtVS-36" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Personaggi_Secondari&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_personaggioS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;nome&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;cognome&lt;br&gt;data_nascita&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="680" y="690" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="SKiWSU0gFCXVpOmUBtVS-37" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Parenti&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_parentela&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;bool parente&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;grado_parentela&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="SKiWSU0gFCXVpOmUBtVS-37" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Parentele&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_parentela&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;bool parente&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;grado_parentela&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="392.5" y="860" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SKiWSU0gFCXVpOmUBtVS-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="SKiWSU0gFCXVpOmUBtVS-43" parent="1">
@@ -162,6 +162,9 @@
         </mxCell>
         <mxCell id="SKiWSU0gFCXVpOmUBtVS-58" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Apparizione_Storia&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_apparizione_Storia&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;FK&lt;/td&gt;&lt;td&gt;&lt;br&gt;id_storia&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;id_PersonaggioP&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="97.5" y="680" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SKiWSU0gFCXVpOmUBtVS-62" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;SCHEMA TABELLE&lt;/b&gt;&lt;br&gt;&lt;br&gt;STORIE(&lt;b&gt;id_storia,&amp;nbsp;&lt;/b&gt;titolo)&lt;br&gt;&lt;br&gt;PUNTATE(&lt;b&gt;id_puntata&lt;/b&gt;, num_pag, num_ordine, num_rivista, &lt;i&gt;id_storia)&lt;/i&gt;&lt;br&gt;&lt;br&gt;PERSONAGGI_PRINCIPALI(&lt;b&gt;id_personaggioP, &lt;/b&gt;nome, cognome, data_nascita)&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;PERSONAGGI_SECONDARI(&lt;/span&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;id_personaggioS,&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;nome, cognome, data_nascita)&lt;br&gt;&lt;br&gt;PARENTELE(&lt;b&gt;id_parentela, &lt;/b&gt;bool parente, grado_parentela)&lt;br&gt;&lt;br&gt;APPARIZIONE_PUNTATA(&lt;b&gt;id_apparizione_Puntata,&lt;/b&gt;&amp;nbsp;&lt;i&gt;id_PersonaggioS, id_Puntata&lt;/i&gt;)&lt;br&gt;&lt;br&gt;APPARIZIONE_STORIA(&lt;/span&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;id_apparizione_Storia,&lt;/b&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;font-size: 15px&quot;&gt;id_PersonaggioP, id_Storia)&lt;/i&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1000" width="570" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
