@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T09:33:02.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="JQx8k8tOwbiJSA71Q8q_" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T09:56:01.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="6weHHt47LBRYyfkE1Mm_" version="14.2.3" type="github">
   <diagram id="4DyGW2wKsxYpFAjnD20m" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -38,23 +38,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sdFaCCVdL8_y7RMUxiyx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;startArrow=oval;startFill=0;" edge="1" parent="1" source="wRxrbZ6N-5s5vV8w8TNR-2" target="sdFaCCVdL8_y7RMUxiyx-2">
+        <mxCell id="sdFaCCVdL8_y7RMUxiyx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;startArrow=oval;startFill=0;" parent="1" source="wRxrbZ6N-5s5vV8w8TNR-2" target="sdFaCCVdL8_y7RMUxiyx-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sdFaCCVdL8_y7RMUxiyx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.456;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=oval;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="wRxrbZ6N-5s5vV8w8TNR-2" target="sdFaCCVdL8_y7RMUxiyx-3">
+        <mxCell id="sdFaCCVdL8_y7RMUxiyx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.456;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=oval;startFill=0;endArrow=ERmany;endFill=0;" parent="1" source="wRxrbZ6N-5s5vV8w8TNR-2" target="sdFaCCVdL8_y7RMUxiyx-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wRxrbZ6N-5s5vV8w8TNR-2" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Giocatore&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_giocatore&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;nome&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;cognome&lt;br&gt;ruolo&lt;br&gt;num_maglia&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="340" y="65" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="sdFaCCVdL8_y7RMUxiyx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="wRxrbZ6N-5s5vV8w8TNR-3" target="sdFaCCVdL8_y7RMUxiyx-2">
+        <mxCell id="sdFaCCVdL8_y7RMUxiyx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=ERmany;endFill=0;" parent="1" source="wRxrbZ6N-5s5vV8w8TNR-3" target="sdFaCCVdL8_y7RMUxiyx-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sdFaCCVdL8_y7RMUxiyx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="wRxrbZ6N-5s5vV8w8TNR-3" target="sdFaCCVdL8_y7RMUxiyx-3">
+        <mxCell id="sdFaCCVdL8_y7RMUxiyx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=oval;startFill=0;endArrow=ERmany;endFill=0;" parent="1" source="wRxrbZ6N-5s5vV8w8TNR-3" target="sdFaCCVdL8_y7RMUxiyx-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="790" y="430" />
@@ -117,7 +117,7 @@
         <mxCell id="wRxrbZ6N-5s5vV8w8TNR-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=oval;endFill=1;" parent="1" source="wRxrbZ6N-5s5vV8w8TNR-29" target="wRxrbZ6N-5s5vV8w8TNR-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sdFaCCVdL8_y7RMUxiyx-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=ERmany;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wRxrbZ6N-5s5vV8w8TNR-29" target="wRxrbZ6N-5s5vV8w8TNR-41">
+        <mxCell id="sdFaCCVdL8_y7RMUxiyx-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=ERmany;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wRxrbZ6N-5s5vV8w8TNR-29" target="wRxrbZ6N-5s5vV8w8TNR-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="910" as="targetPoint" />
           </mxGeometry>
@@ -194,19 +194,19 @@
         <mxCell id="m4EOGRRwC9dL0CV6jK54-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;SCHEMA TABELLE&lt;/b&gt;&lt;br&gt;&lt;br&gt;SQUADRE(&lt;b&gt;id_squadra,&lt;/b&gt;nome_squadra)&lt;br&gt;&lt;br&gt;GIOCATORI(&lt;b&gt;id_giocatore,&lt;/b&gt;nome,cognome,ruolo,num_maglia,&lt;i&gt;id_squadra&lt;/i&gt;)&lt;br&gt;&lt;br&gt;PARTITE(&lt;b&gt;id_partita&lt;/b&gt;,luogo,data,ora,&lt;i&gt;id_squadra_casa, id_squadra_ospite&lt;/i&gt;)&lt;br&gt;&lt;br&gt;DISTINTA(&lt;b&gt;id_distinta&lt;/b&gt;,&lt;i&gt;id_partita,id_giocatore&lt;/i&gt;)&lt;br&gt;&lt;br&gt;GOAL(&lt;b&gt;id_goal,&lt;/b&gt;minuto,secondo,tipo&lt;i&gt;,id_distinta&lt;/i&gt;)&lt;br&gt;&lt;br&gt;SOSTITUZIONI(&lt;b&gt;id_sostituzione&lt;/b&gt;,minuto_s,durata_s,&lt;i&gt;id_distinta)&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="1230" width="470" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="sdFaCCVdL8_y7RMUxiyx-2" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Goal&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_goal&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;minuto&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;br&gt;FK&amp;nbsp;&lt;/td&gt;&lt;td&gt;secondo&lt;br&gt;tipo&lt;br&gt;id_distinta&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="450" y="245" width="180" height="125" as="geometry" />
+        <mxCell id="sdFaCCVdL8_y7RMUxiyx-2" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Goal&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_goal&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;minuto&lt;br&gt;secondo&lt;br&gt;tipo&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="450" y="245" width="180" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="sdFaCCVdL8_y7RMUxiyx-3" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Sostituzioni&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_sostituzione&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;minuto_s&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;FK&amp;nbsp;&lt;br&gt;&lt;/td&gt;&lt;td&gt;durata_s&lt;br&gt;&lt;br&gt;id_distinta&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="sdFaCCVdL8_y7RMUxiyx-3" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Sostituzione&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_sostituzione&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;minuto_s&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;durata_s&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="700" y="250" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="sdFaCCVdL8_y7RMUxiyx-5" value="può fare" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="sdFaCCVdL8_y7RMUxiyx-5" value="può fare" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="190" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sdFaCCVdL8_y7RMUxiyx-8" value="può partecipare" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="sdFaCCVdL8_y7RMUxiyx-8" value="può partecipare" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="90" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sdFaCCVdL8_y7RMUxiyx-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=ERmany;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="sdFaCCVdL8_y7RMUxiyx-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=ERmany;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="129" y="920" as="targetPoint" />
             <mxPoint x="129" y="735" as="sourcePoint" />
