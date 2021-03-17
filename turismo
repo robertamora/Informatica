@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T10:27:09.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="1vckQWc9aLXsLO34GXvc" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T10:31:14.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="d4JhgLmF81djG5iBazBJ" version="14.4.8" type="github">
   <diagram id="s9Ih9S0zXy6Mvhs22HoI" name="Page-1">
     <mxGraphModel dx="1019" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p7D0nxLGMObHYFl2i0Ki-6" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Biglietto&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;id_biglietto&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;FK&amp;nbsp;&lt;/td&gt;&lt;td&gt;password&lt;br&gt;lingua_scelta&lt;br&gt;tariffa&lt;br&gt;data&amp;nbsp;&lt;br&gt;ora&lt;br&gt;data_rest_tablet&lt;br&gt;&lt;br&gt;id_infopoint&lt;br&gt;id_tablet&lt;br&gt;id_visitatore&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="240" width="180" height="170" as="geometry" />
+          <mxGeometry x="280" y="240" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="EIYZK3RbS1ept2Gk-Z9K-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;" parent="1" source="_1sU4bCS3WkpxGAnMXQ_-5" target="p7D0nxLGMObHYFl2i0Ki-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
